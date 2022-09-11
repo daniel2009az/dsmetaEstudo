@@ -1,5 +1,5 @@
-import logo from  "../../assets/img/dsmeta-logo.svg"
-import "./styles.css"
+import logo from  "../../assets/img/dsmeta-logo.svg";
+import "./styles.css";
 function header() {
     return (
         <header>
@@ -15,4 +15,4 @@ function header() {
 
 
 }
-export default header
+export default header;
