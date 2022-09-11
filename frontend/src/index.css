@@ -20,3 +20,30 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+.dsmeta-card-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+#sales {
+  padding: 0 10px;
+
+}
+
+.dev-superior-container{
+  border: 1px #676FFF dotted ;
+  height: 45px;
+  background: linear-gradient(0deg, #102347 0%, #181818 100%);
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.dev-superior{
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
+  margin: 10px auto;
+  font-weight: 300;
+  font-size: 15px;
+}
